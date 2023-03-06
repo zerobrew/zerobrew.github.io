@@ -1,4 +1,6 @@
 # zerobrew.github.io
+© **ZeroBrew**
+
 ZeroBrew's official website. Please look around.
 
 ## Contributions and thanks
